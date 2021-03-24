@@ -1,2 +1,2 @@
 # typescript-parte1
-Alura
+Parei: Aula 03 - 01
